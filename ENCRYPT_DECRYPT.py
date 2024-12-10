@@ -1,5 +1,3 @@
-
-
 def encrypt(a,c):	
 	str=''
 	b=("ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]ABC+D@EF=G!HI%JKL_MN|OP<Q$RS>TU/V{W^XY} Z[a&b1c*d(e2)fg\h3i`j~k4l-m?n5o'pq6rs7:t;uv8w,xy9z0]")
@@ -56,7 +54,5 @@ while ask!='!':
 	print()
 	print()
 	print("***********************************************")
-	print()
-	print("    			IK WAARI HOR...")
-	print()
+
 
